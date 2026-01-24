@@ -1,3 +1,4 @@
+// Pointer labels and arrows for algorithm visualization
 import { cn } from "@/lib/utils";
 import type { ArrayBar } from "@/hooks/useSortingVisualizer";
 
