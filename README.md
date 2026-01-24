@@ -1,6 +1,6 @@
 # DSA Visualizer
 
-An interactive web application to visualize sorting, recursion, trees, and graph algorithms. Helping students understand core DSA concepts through animations.
+An interactive web application (algorithm visualizer) to visualize sorting, recursion, trees, and graph algorithms. Helping students understand core DSA concepts through animations.
 
 ## Features
 
